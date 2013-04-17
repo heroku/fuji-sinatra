@@ -1,7 +1,5 @@
-require 'rubygems'
-require 'sinatra'
-require 'haml'
-require 'fuji'
+require 'bundler'
+Bundler.require
 
 # Sinatra config
 set :app_file, __FILE__
