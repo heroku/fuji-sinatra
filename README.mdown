@@ -1,0 +1,4 @@
+Fuji Template Sinatra
+=====================
+
+A barebones sinatra app demonstrating the use of [Fuji](https://github.com/heroku/fuji).
