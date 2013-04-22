@@ -5,4 +5,5 @@ gem 'sinatra'
 gem 'fuji', '~> 0.1.5'
 gem "thin"
 gem "haml"
+gem 'redcarpet'
 gem "compass"
